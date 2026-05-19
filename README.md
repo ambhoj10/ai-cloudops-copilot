@@ -6,11 +6,7 @@ Enterprise AI-powered cloud incident investigation assistant built using Azure O
 
 # 🚀 Live Demo
 
-Add your Streamlit deployment URL here after deployment.
-
-Example:
-
-https://your-app-name.streamlit.app
+https://ai-cloudops-copilot-dkgaqfsnjoccnrmhj2dh2i.streamlit.app/
 
 ---
 
@@ -51,18 +47,6 @@ The AI CloudOps Copilot can:
 | Azure OpenAI | LLM |
 | LangChain | AI orchestration |
 | dotenv | Environment management |
-
----
-
-# 📸 Screenshots
-
-## Dashboard
-
-Add screenshot here.
-
-Example:
-
-![Dashboard Screenshot](screenshot.png)
 
 ---
 
